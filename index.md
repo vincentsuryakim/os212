@@ -3,4 +3,4 @@ Hello, my name is Vincent Suryakim. This is my repository for the Operating Syst
 
 **Pages:**
 - [Repository](https://github.com/vincentsuryakim/os212)
-- [Logs](https://github.com/vincentsuryakim/os212/blob/master/TXT/mylog.txt)
+- [Logs](https://raw.githubusercontent.com/vincentsuryakim/os212/master/TXT/mylog.txt)
