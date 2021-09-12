@@ -8,3 +8,4 @@ ZCZC W00 40 L02 Zoom Meeting
 ZCZC W01 100 L02 Zoom Meeting
 ZCZC W01 200 L11 Finished Assignment Week 1
 ZCZC W01 60 L31 Reinstall VirtualBox
+ZCZC W01 10 L04 Added more to Github Page
