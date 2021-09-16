@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /LINKS/
 ---
 
 # OS212 - Vincent Suryakim
