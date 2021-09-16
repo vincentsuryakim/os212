@@ -4,7 +4,7 @@ permalink: /LINKS/
 ---
 
 # OS212 - Vincent Suryakim
-## [Home](https://vincentsuryakim.github.io/os212/) | [Logs](https://raw.githubusercontent.com/vincentsuryakim/os212/master/TXT/mylog.txt) | [Links](https://vincentsuryakim.github.io/os212/LINKS) |[Repository](https://github.com/vincentsuryakim/os212)
+## [Home](https://vincentsuryakim.github.io/os212/) | [Logs](https://raw.githubusercontent.com/vincentsuryakim/os212/master/TXT/mylog.txt) | [Links](https://vincentsuryakim.github.io/os212/LINKS) | [Repository](https://github.com/vincentsuryakim/os212)
 
 1. [Main OS Link](https://os.vlsm.org)<br>
 This link is the main source of information for the Operating Systems course. It contains many essential items such as our weekly powerpoint slides.
