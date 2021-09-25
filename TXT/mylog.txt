@@ -11,3 +11,13 @@ ZCZC W01 60 L31 Reinstall VirtualBox
 ZCZC W01 10 L04 Added more to Github Page
 ZCZC W02 100 L02 Zoom Meeting
 ZCZC W02 60 L12 Finished Assignment Week 2
+ZCZC W03 100 L02 Zoom Meeting
+ZCZC W03 60 L11 Assignments #01
+ZCZC W03 60 L12 Assignments #02
+ZCZC W03 60 L13 Assignments #03
+ZCZC W03 20 L14 Assignments #04
+ZCZC W03 40 L15 Assignments #05
+ZCZC W03 15 L16 Assignments #06
+ZCZC W03 10 L17 Assignments #07
+ZCZC W03 10 L18 Assignments #08
+ZCZC W03 5 L19 Assignments #09

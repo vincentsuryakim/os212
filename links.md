@@ -18,3 +18,8 @@ I think that the grep command is very useful to search for a keyword within a fi
 4. [Sed Command](https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/z)<br>
 I think that the sed command is another useful command to learn because of its capabilities to find and replace keywords within a file easily. I think that this article is especially useful to learn the command.
 
+5. [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
+I think that C is an important language especially for Operating Systems, and I would love to learn the language even more. Therefore, I think that this video is very useful for us to learn the language even more.
+
+6. [C Language Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet)<br>
+Another way to learn the C language is by doing. When learning the language, I often encounter many bugs. Therefore, I think that this cheatsheet is very useful for us to debug and learn the language even more.
