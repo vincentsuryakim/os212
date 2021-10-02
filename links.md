@@ -23,3 +23,12 @@ I think that C is an important language especially for Operating Systems, and I 
 
 6. [C Language Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet)<br>
 Another way to learn the C language is by doing. When learning the language, I often encounter many bugs. Therefore, I think that this cheatsheet is very useful for us to debug and learn the language even more.
+
+7. [Big Endian and Little Endian](https://www.youtube.com/watch?v=T1C9Kj_78ek)<br>
+Everytime I read this week's slides, I often read about Big Endian and Little Endian. Therefore, I think that we all need to learn more about Big Endian and Little Endian. I think that this link can help us to understand more about them.
+
+8. [Addressing in C](https://www.youtube.com/watch?v=lzMCuw_5dfM)<br>
+Other than Big Endian and Little Endian, I often encounter topics about addressing in C. Therefore, I think that it is vital to understand further about addressing.
+
+9. [Introduction to Pointers in C](https://www.youtube.com/watch?v=f2i0CnUOniA)<br>
+I also learn about pointers in C this week, and I think that we need to learn more about pointers in C as I believe that it will help us in the future. I believe that this link is a powerful gateway to learn even further about pointers in C.
