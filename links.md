@@ -33,8 +33,17 @@ Other than Big Endian and Little Endian, I often encounter topics about addressi
 9. [Introduction to Pointers in C](https://www.youtube.com/watch?v=f2i0CnUOniA)<br>
 I also learn about pointers in C this week, and I think that we need to learn more about pointers in C as I believe that it will help us in the future. I believe that this link is a powerful gateway to learn even further about pointers in C.
 
-10. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+10. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 I think that the knowledge about virtual memories are very important. All of us need to learn more about virtual memories in order to further cement our knowledge about computer science. This link has been useful for me and I hope that this link will also be useful for you.
 
-11. [Memory Allocation Algorithms](https://www.youtube.com/watch?v=10vroQb5IdY)
+11. [Memory Allocation Algorithms](https://www.youtube.com/watch?v=10vroQb5IdY)<br>
 Not just virtual memories, I also think that memory allocation algorithms are very important for us to understand in order to create a memory efficient algorithm in the future. I think that this link is very important because it has been a great source of knowledge for me, and I want to share it with all of you.
+
+12. [Difference between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)<br>
+This is an article from GeeksforGeeks. This article discusses about the difference between a process and a thread in the topic of concurrency. I think that this article is very useful if you want to learn even more about the differences of a process and a thread in concurrency.
+
+13. [Fork and Threads](http://gauss.ececs.uc.edu/Courses/c694/lectures/ForksThreads/forks.html)<br>
+This link explains us about the differences of fork and threads. I think that this article can serve as a good foundational knowledge for us to learn even more about concurrency.
+
+14. [Multithreading Code - Computerphile](https://www.youtube.com/watch?v=7ENFeb-J75k)<br>
+In this video, Dr. Steve Bagleys explains to us about multithreading code and what we might encounter while doing so. 

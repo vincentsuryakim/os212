@@ -40,3 +40,12 @@ ZCZC W05 60 L15 Assignment #05
 ZCZC W05 30 L17 Assignment #07
 ZCZC W05 15 L18 Assignment #08
 ZCZC W05 5 L19 Assignment $09
+ZCZC W06 60 L11 Assignment #01
+ZCZC W06 60 L12 Assignment #02
+ZCZC W06 60 L13 Assignment #03
+ZCZC W06 30 L14 Assignment #04
+ZCZC W06 30 L15 Assignment #05
+ZCZC W06 30 L17 Assignment #07
+ZCZC W06 15 L18 Assignment #08
+ZCZC W06 5 L19 Assignment #09
+ZCZC W06 60 L64 Helping OS related problem to a friend.
