@@ -47,3 +47,12 @@ This link explains us about the differences of fork and threads. I think that th
 
 14. [Multithreading Code - Computerphile](https://www.youtube.com/watch?v=7ENFeb-J75k)<br>
 In this video, Dr. Steve Bagleys explains to us about multithreading code and what we might encounter while doing so. 
+
+15. [Difference between Deadlock and Starvation](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)<br>
+Everytime I learn about deadlock and starvation, I often get mixed up between the two. Therefore, I think that this is a great article if you want to further cement your knowledge in deadlock and starvation.
+
+16. [Foundations of Peterson's Solution](https://www.youtube.com/watch?v=gYCiTtgGR5Q)<br>
+In this video, Neso Academy discussed about Peterson's Solution in great detail. I think that this video is important to learn the foundations of Peterson's Solution even more.
+
+17. [Basics of Semaphores](https://www.tutorialspoint.com/semaphores-in-operating-system)<br>
+This article explains us about the basics of semaphores, starting from definition, types, and even more! I believe that this article is important for us to learn even further about semaphores.
