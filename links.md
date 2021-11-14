@@ -56,3 +56,12 @@ In this video, Neso Academy discussed about Peterson's Solution in great detail.
 
 17. [Basics of Semaphores](https://www.tutorialspoint.com/semaphores-in-operating-system)<br>
 This article explains us about the basics of semaphores, starting from definition, types, and even more! I believe that this article is important for us to learn even further about semaphores.
+
+18. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+As it turns out, CPU Scheduling is very important in computer science, especially in operating systems. That's why I think that this article is vital for everyone to read, so that all of us may understand even further about CPU Scheduling.
+
+19. [Introduction to CPU Scheduling](https://www.youtube.com/watch?v=EWkQl0n0w5M)<br>
+Apart from the article I mentioned above, I also think that this is an amazing and useful video to further learn and test our understanding about CPU Scheduling.
+
+20. [Linux from Scratch Official Page](https://www.linuxfromscratch.org/)<br>
+When we're doing a linux from scratch project, we often encounter errors that we don't understand. That's why I think that this website is important because it provides us with a detailed step-by-step instruction list that we can easily follow to create our own linux from scratch.
