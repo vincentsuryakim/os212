@@ -65,3 +65,12 @@ Apart from the article I mentioned above, I also think that this is an amazing a
 
 20. [Linux from Scratch Official Page](https://www.linuxfromscratch.org/)<br>
 When we're doing a linux from scratch project, we often encounter errors that we don't understand. That's why I think that this website is important because it provides us with a detailed step-by-step instruction list that we can easily follow to create our own linux from scratch.
+
+21. [UEFI and How is it Different from BIOS](https://www.geeksforgeeks.org/uefiunified-extensible-firmware-interface-and-how-is-it-different-from-bios/)<br>
+I think that learning about UEFI (Unified Extensible Firmware Interface) is an important part in understanding more about operating systems. That is why I am recommending this article from GeeksForGeeks in order for us to understand even more about UEFI.
+
+22. [Basics of RAID](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)<br>
+Redundant Arrays of Independent Disks, or more commonly known as RAID, is a technique that uses multiple disks in order to increase performance. Currently, RAID has been used around the world to increase the performance of computers. Therefore, I think that as computer science majors, we should learn and understand about RAID as much as we can.
+
+23. [Systemd and its Components](https://www.geeksforgeeks.org/linux-systemd-and-its-components/)<br>
+Systemd is a system designed specifically for the linux kernel to replace the sysvinit process to become the world first process with PID=1, which gets executed in user space during the Linux start-up process. With that said, I think that systemd is another important part of computers and by learning about systemd, I believe that we can gain a more in-depth knowledge about computers.
