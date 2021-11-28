@@ -74,3 +74,9 @@ Redundant Arrays of Independent Disks, or more commonly known as RAID, is a tech
 
 23. [Systemd and its Components](https://www.geeksforgeeks.org/linux-systemd-and-its-components/)<br>
 Systemd is a system designed specifically for the linux kernel to replace the sysvinit process to become the world first process with PID=1, which gets executed in user space during the Linux start-up process. With that said, I think that systemd is another important part of computers and by learning about systemd, I believe that we can gain a more in-depth knowledge about computers.
+
+24. [Sockets in C](https://www.geeksforgeeks.org/socket-programming-cc/)<br>
+This is an article about sockets. I think that all of us should learn about sockets because I believe that it is one of the foundations of computer science.
+
+25. [Input-output in C](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/)<br>
+This is a very useful article about input-output. I think that all of us should read this article about input-output because input-output is one of the building blocks of computer science.
